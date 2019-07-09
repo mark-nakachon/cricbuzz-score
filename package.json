@@ -1,0 +1,26 @@
+{
+  "name": "cricbuzz-score",
+  "version": "1.0.0",
+  "description": "command line cricbuzz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-nakachon/cricbuzz-score.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark-nakachon/cricbuzz-score/issues"
+  },
+  "homepage": "https://github.com/mark-nakachon/cricbuzz-score#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "clear": "^0.1.0",
+    "remove": "^0.1.5",
+    "set-interval-async": "1.0.23"
+  }
+}
