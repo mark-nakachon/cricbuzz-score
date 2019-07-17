@@ -1,10 +1,10 @@
 {
   "name": "cricbuzz-score",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "command line cricbuzz app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
     "clear": "^0.1.0",
     "remove": "^0.1.5",
     "set-interval-async": "1.0.23"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
