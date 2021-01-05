@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mark-nakachon/cricbuzz-score#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "clear": "^0.1.0",
     "remove": "^0.1.5",
     "set-interval-async": "1.0.23"
